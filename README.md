@@ -1,6 +1,6 @@
 # StarWarsRepo
 
-![./starwars-logo](Star Wars LOGO)
+![./starwars-logo.png](Star Wars LOGO)
 Repo for Git training
 
 
